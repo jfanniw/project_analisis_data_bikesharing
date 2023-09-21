@@ -11,3 +11,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+## Tautan Live Dashboard
+[Dashboard](https://mfxvmr5qbgsusctwq9dz69.streamlit.app)
